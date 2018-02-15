@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WEBAPICORESWAGGER</name>
+    </assembly>
+    <members>
+        <member name="T:WEBAPICORESWAGGER.Controllers.ValuesController">
+            <summary>
+            Values Controller Demo
+            </summary>
+        </member>
+        <member name="M:WEBAPICORESWAGGER.Controllers.ValuesController.Get">
+            <summary>
+            Returna all values
+            </summary>
+            <response code="201">Returns the newly-created item</response>
+            <response code="400">If the item is null</response> 
+        </member>
+        <member name="M:WEBAPICORESWAGGER.Controllers.ValuesController.Get(System.Int32)">
+            <summary>
+            Return Value + Parameter
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WEBAPICORESWAGGER.Controllers.ValuesController.Post(System.String)">
+            
+        </member>
+    </members>
+</doc>

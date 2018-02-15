@@ -1,0 +1,11 @@
+C:\Code\WEBAPICORESWAGGER\bin\Debug\netcoreapp2.0\WebApi.xml
+C:\Code\WEBAPICORESWAGGER\bin\Debug\netcoreapp2.0\WEBAPICORESWAGGER.deps.json
+C:\Code\WEBAPICORESWAGGER\bin\Debug\netcoreapp2.0\WEBAPICORESWAGGER.runtimeconfig.json
+C:\Code\WEBAPICORESWAGGER\bin\Debug\netcoreapp2.0\WEBAPICORESWAGGER.runtimeconfig.dev.json
+C:\Code\WEBAPICORESWAGGER\bin\Debug\netcoreapp2.0\WEBAPICORESWAGGER.dll
+C:\Code\WEBAPICORESWAGGER\bin\Debug\netcoreapp2.0\WEBAPICORESWAGGER.pdb
+C:\Code\WEBAPICORESWAGGER\obj\Debug\netcoreapp2.0\WEBAPICORESWAGGER.csproj.CoreCompileInputs.cache
+C:\Code\WEBAPICORESWAGGER\obj\Debug\netcoreapp2.0\WEBAPICORESWAGGER.AssemblyInfoInputs.cache
+C:\Code\WEBAPICORESWAGGER\obj\Debug\netcoreapp2.0\WEBAPICORESWAGGER.AssemblyInfo.cs
+C:\Code\WEBAPICORESWAGGER\obj\Debug\netcoreapp2.0\WEBAPICORESWAGGER.dll
+C:\Code\WEBAPICORESWAGGER\obj\Debug\netcoreapp2.0\WEBAPICORESWAGGER.pdb
